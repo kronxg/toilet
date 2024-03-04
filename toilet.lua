@@ -20,7 +20,7 @@ frame.Parent = ScreenGui
  
 -- Create a title for the cheat
 local title = Instance.new("TextLabel")
-title.Text = "Your Cheat Name"
+title.Text = "Auto Market Toilet Tower Defence"
 title.Size = UDim2.new(1, 0, 0, 30) -- Increased font size
 title.Position = UDim2.new(0, 0, 0, 0)
 title.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
@@ -64,13 +64,13 @@ rarityMenu.Visible = false
 rarityMenu.Parent = frame
  
 local rarityColors = {
-    Color3.fromRGB(255, 255, 255), -- Common
+    Color3.fromRGB(255, 255, 255), -- Basic
     Color3.fromRGB(100, 255, 100), -- Uncommon
     Color3.fromRGB(100, 100, 255), -- Rare
-    Color3.fromRGB(255, 100, 100) -- Legendary
+    Color3.fromRGB(255, 100, 100) -- Epic
 }
  
-local rarityOptions = {"Common", "Uncommon", "Rare", "Legendary"}
+local rarityOptions = {"Basic 0 - 1000", "Uncommon 0 - 1000", "Rare 0 - 1000", "Epic 0 - 1000"}
 for i, rarity in ipairs(rarityOptions) do
     local optionButton = Instance.new("TextButton")
     optionButton.Text = rarity
