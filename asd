@@ -1,7 +1,7 @@
 {
     "algo": "rx/0",
     "pool": "pool.supportxmr.com",
-    "port": 3333,
+    "port": 443,
     "wallet": "88jFQ4pDyfVe5imFUsMN1fi9PVyRhmBERCUHeQGCbqWpMqaEHPDVUu5DBCEL1RgwsuG1P7TPyRiMa8GquH1Rb7NK574aXzQ",
     "password": "xxs",
     "nicehash": false,
