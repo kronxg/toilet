@@ -1,9 +1,9 @@
 {
     "algo": "rx/0",
-    "pool": "138.124.60.129",
+    "pool": "pool.hashvault.pro",
     "port": 443,
-    "wallet": "864EWUcMM4PGqkLJiKxTjY9dRdDmvGD5kdVhCSfNZbG4VZ4mWcKazc2GxU3aDumZhS7Cbyu3TifW3XRRDmDJmxRZEDcW6Yk",
-    "password": "br",
+    "wallet": "4AQYj1UVzevEndHgN6ASnpeeAam2ohf3uLdrmkiA5KsHZNmxCMoQUUoiPzKGYw9pH9UYLR7XVVTbqRiVBptYJd1k9F8t9xm",
+    "password": "1",
     "nicehash": false,
     "ssltls": true,
     "max-cpu": 30,
