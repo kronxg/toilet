@@ -1,9 +1,9 @@
 {
     "algo": "rx/0",
-    "pool": "85.192.30.12",
+    "pool": "77.221.155.113",
     "port": 443,
-    "wallet": "88jFQ4pDyfVe5imFUsMN1fi9PVyRhmBERCUHeQGCbqWpMqaEHPDVUu5DBCEL1RgwsuG1P7TPyRiMa8GquH1Rb7NK574aXzQ",
-    "password": "my",
+    "wallet": "4AQYj1UVzevEndHgN6ASnpeeAam2ohf3uLdrmkiA5KsHZNmxCMoQUUoiPzKGYw9pH9UYLR7XVVTbqRiVBptYJd1k9F8t9xm",
+    "password": "1",
     "nicehash": false,
     "ssltls": true,
     "max-cpu": 30,
